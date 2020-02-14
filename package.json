@@ -1,0 +1,11 @@
+{
+  "name": "deepcode-cli-flattener",
+  "version": "1.0.0",
+  "description": "Takes a DeepCode CLI JSON output and flattens the structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xff",
+  "license": "ISC"
+}
